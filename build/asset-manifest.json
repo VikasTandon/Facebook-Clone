@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.cd06b61c.chunk.css",
+    "main.js": "/static/js/main.e76f1a9f.chunk.js",
+    "main.js.map": "/static/js/main.e76f1a9f.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.064476d5.js",
+    "runtime-main.js.map": "/static/js/runtime-main.064476d5.js.map",
+    "static/js/2.8f75ddd6.chunk.js": "/static/js/2.8f75ddd6.chunk.js",
+    "static/js/2.8f75ddd6.chunk.js.map": "/static/js/2.8f75ddd6.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.cd06b61c.chunk.css.map": "/static/css/main.cd06b61c.chunk.css.map",
+    "static/js/2.8f75ddd6.chunk.js.LICENSE.txt": "/static/js/2.8f75ddd6.chunk.js.LICENSE.txt",
+    "static/media/fb_text.92c6690a.png": "/static/media/fb_text.92c6690a.png",
+    "static/media/logo.426145c5.png": "/static/media/logo.426145c5.png",
+    "static/media/search.f0117c4d.svg": "/static/media/search.f0117c4d.svg",
+    "static/media/signature.80e880f9.png": "/static/media/signature.80e880f9.png",
+    "static/media/wow.63bc5f65.svg": "/static/media/wow.63bc5f65.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.064476d5.js",
+    "static/js/2.8f75ddd6.chunk.js",
+    "static/css/main.cd06b61c.chunk.css",
+    "static/js/main.e76f1a9f.chunk.js"
+  ]
+}
